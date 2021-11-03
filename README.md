@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![quentinb-fr's GitHub stats](https://github-readme-stats.vercel.app/api?username=quentinb-fr)](https://github.com/quentinb-fr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quentinb-fr&layout=compact)](https://github.com/quentinb-fr/github-readme-stats)

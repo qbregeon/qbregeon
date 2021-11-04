@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![Signal](https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-![quentinb-fr's GitHub stats](https://github-readme-stats.vercel.app/api?username=quentinb-fr&show_icons=true&theme=dark)
+<!--![quentinb-fr's GitHub stats](https://github-readme-stats.vercel.app/api?username=quentinb-fr&show_icons=true&theme=dark)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quentinb-fr&layout=compact)](https://github.com/quentinb-fr/github-readme-stats)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)

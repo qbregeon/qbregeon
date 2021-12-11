@@ -83,4 +83,4 @@ Here are some ideas to get you started:
 ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
 
 <!--![quentinb-fr's GitHub stats](https://github-readme-stats.vercel.app/api?username=quentinb-fr&show_icons=true&theme=dark)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quentinb-fr&layout=compact)](https://github.com/quentinb-fr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qbregeon&layout=compact)](https://github.com/qbregeon/github-readme-stats)

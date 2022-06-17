@@ -88,3 +88,5 @@ Here are some ideas to get you started:
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
 ![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
+
+<!-- https://github.com/alexandresanlim/Badges4-README.md-Profile , https://github.com/Ileriayo/markdown-badges -->
